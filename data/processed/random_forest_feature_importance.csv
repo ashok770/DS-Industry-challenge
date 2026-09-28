@@ -1,0 +1,668 @@
+Feature,Importance
+categorical__Route_Name_Up Valley Connector,0.172336985327106
+categorical__Route_ID_VN:10,0.14882443619241498
+remainder__Scheduled_Start,0.14440256256348727
+categorical__Route_ID_PE:10,0.11225785711640923
+categorical__Route_Name_10 Petaluma Blvd,0.10108134047978541
+remainder__Scheduled_Duration_Minutes,0.0930966367620895
+remainder__Distance,0.04082911117321414
+remainder__Number_of_Stops,0.02568031211241731
+categorical__Direction_1,0.019321804023531838
+categorical__Direction_0,0.017127272080609428
+categorical__Route_10,0.007023458041741772
+categorical__Route_Name_MISSION,0.004116584081934401
+categorical__Route_ID_SF:14,0.0039565842585001405
+categorical__Route_28,0.00285510183186437
+categorical__Route_30,0.002429105598653948
+categorical__Route_M,0.002321271945735391
+categorical__Route_ACE Violet,0.0022380793579863
+categorical__Route_Name_STOCKTON,0.002227993137144927
+categorical__Route_ID_SF:30,0.002005737654967687
+categorical__Route_Name_South Milpitas,0.001933694190299959
+categorical__Route_PH,0.0018563068690926562
+categorical__Route_G,0.0018351575135954145
+categorical__Route_ID_SC:ACE Violet,0.001809325012794121
+categorical__Route_ID_SF:M,0.0017403397629263153
+categorical__Route_ID_AC:215,0.0017025502502303399
+categorical__Route_Name_Coombs | South Napa,0.0016576291266584906
+categorical__Route_215,0.0016514721753679133
+categorical__Route_Name_Osgood - Warm Springs - Landing,0.001641353111875803
+categorical__Route_ID_SR:3,0.0016258884297192721
+categorical__Route_ID_VN:G,0.0015901932441558216
+categorical__Route_Name_OCEAN VIEW,0.0015810001637372704
+categorical__Route_ID_SF:25,0.0015710939221631917
+categorical__Route_ID_SF:F,0.0015605392615806114
+categorical__Route_ID_SF:54,0.0015128904982924434
+categorical__Route_Name_FELTON,0.0014710303496348058
+categorical__Route_Name_MARKET & WHARVES,0.0013836006298857807
+categorical__Route_Name_TREASURE ISLAND,0.0012940248881387606
+categorical__Route_Name_Santa Rosa Ave,0.0012923081083870294
+categorical__Route_Name_POWELL-HYDE CABLE CAR,0.001291516602608891
+categorical__Route_Name_Delores,0.001180406188266676
+categorical__Route_ID_SF:PH,0.0011524213841876973
+categorical__Route_ID_UC:1,0.0010740030165019463
+categorical__Route_Name_19TH AVENUE,0.0010619560447378779
+categorical__Route_57,0.0009200267183238438
+categorical__Route_Name_CHURCH,0.0008766042930769952
+categorical__Route_Name_GEARY,0.0008536172990706098
+categorical__Route_Name_Napa-BART Express,0.0008528266263006131
+categorical__Route_Name_FILLMORE,0.0008455655215731057
+categorical__Route_ID_SF:22,0.0008325952565685207
+categorical__Route_ID_VN:C,0.0007791892211567469
+categorical__Route_ID_SC:23,0.0007568810502740402
+categorical__Route_ID_SF:J,0.0007549009031406823
+categorical__Route_14,0.0007506442256253793
+categorical__Route_C,0.0007368710186737653
+categorical__Route_Name_Jefferson | Central Napa,0.0007346222975174219
+categorical__Route_ID_SF:28,0.0007345457384533186
+categorical__Route_ID_SF:38,0.0007132576335889381
+categorical__Route_38,0.0006846287803044642
+categorical__Route_Name_De Anza Coll - Alum Rock via Stevens Crk,0.0006561031407480197
+categorical__Route_23,0.0006171457030119159
+categorical__Route_ID_VN:21,0.0006059988994170702
+categorical__Route_ID_SF:67,0.0005986661714238814
+categorical__Route_8AX,0.0005971435273616044
+categorical__Route_Name_BERNAL HEIGHTS,0.0005639357456620243
+categorical__Route_ID_SF:PM,0.0005491940834904882
+categorical__Route_ID_SF:8AX,0.0005292741581082601
+categorical__Route_J,0.0004939425200910134
+categorical__Route_22,0.0004915770859508838
+categorical__Route_12,0.0004751348000880605
+categorical__Route_ID_SF:55,0.00045835477123810556
+categorical__Route_Name_POWELL-MASON CABLE CAR,0.00045209058864686274
+categorical__Route_Name_BAYSHORE A EXPRESS,0.00044766574139602593
+categorical__Route_Name_BAYSHORE,0.0004439686382783747
+categorical__Route_ID_SF:9,0.00043417022360034153
+categorical__Route_Name_SAN BRUNO,0.00043207924298454
+categorical__Route_Name_Trees and Flowers,0.0004305074804886015
+categorical__Route_F,0.0004266248501013029
+categorical__Route_ID_VN:29,0.0004166017135707698
+categorical__Route_Name_POLK,0.0004125575596886367
+categorical__Route_PM,0.00041135414057534656
+categorical__Route_Name_THIRD,0.00039497011754640324
+categorical__Route_ID_SF:8,0.00039426451386863326
+categorical__Route_9,0.00037199437782863486
+categorical__Route_Name_Napa-Solano Express,0.00036891722815529074
+categorical__Route_Name_Milpitas BART - Alder Stn via McCarthy Ranch,0.0003650806468142578
+categorical__Route_ID_SF:5,0.0003616658940418931
+categorical__Route_25,0.00035160154693781063
+categorical__Route_Name_TARAVAL,0.0003509599151226183
+categorical__Route_67,0.00034978267331506135
+categorical__Route_54,0.00034580358969765057
+categorical__Route_ID_AC:57,0.00034100934170296353
+categorical__Route_ID_SF:19,0.0003312679679609947
+categorical__Route_T,0.00032635000536933214
+categorical__Route_ID_SC:47,0.00032534221885519325
+categorical__Route_ID_SF:CA,0.00031697454047578585
+categorical__Route_45,0.000315444351521476
+categorical__Route_1T,0.00031325402545602233
+categorical__Route_ID_SF:L,0.00030506205823124826
+categorical__Route_ID_SF:T,0.00030436883800381305
+categorical__Route_74,0.00030296851980170296
+categorical__Route_ID_WC:12,0.0003021403981801831
+categorical__Route_Name_East Dublin,0.0003004129852458705
+categorical__Route_ID_AC:1T,0.0002987532626885556
+categorical__Route_Name_CALIFORNIA STREET CABLE CAR,0.00029653885466825506
+categorical__Route_19,0.00029164727785619505
+categorical__Route_L,0.00028704833818174084
+categorical__Route_ID_WH:2,0.0002860611992901368
+categorical__Route_CA,0.00028534397202334167
+categorical__Route_Name_DOGPATCH,0.0002853059835555772
+categorical__Route_Name_Dimond - Fruitvale - South Shore,0.0002820162340092614
+categorical__Route_Name_Ohlone-Chynoweth Stn - McKee & White,0.0002775861958284828
+categorical__Route_ID_SM:CSM,0.00027438204815109026
+categorical__Route_CSM,0.0002705703971178991
+categorical__Route_Name_San Pablo Dam - 23rd St.,0.000269788051843335
+categorical__Route_Name_International - E. 14th,0.00026888654933161945
+categorical__Route_Name_40th St. - MacArthur,0.00026434433805655835
+categorical__Route_Name_De Anza Coll - Alum Rock via Valley Med,0.00025891068570107616
+categorical__Route_47,0.00025675302143274964
+categorical__Route_5,0.00025218709575063557
+categorical__Route_Name_College of San Mateo - Downtown San Mateo,0.0002462713061317704
+categorical__Route_ID_AC:20,0.00023760047985464335
+categorical__Route_N,0.000234059887271686
+categorical__Route_2,0.00023107850722183846
+categorical__Route_Name_FULTON,0.00022913612375450714
+categorical__Route_64A,0.00022533460121773133
+categorical__Route_Name_O'SHAUGHNESSY,0.00022172347258211619
+categorical__Route_ID_SF:44,0.0002191507944312154
+categorical__Route_ID_AC:O,0.00021893747175690678
+categorical__Route_ID_SC:25,0.00021823108233478257
+categorical__Route_ID_AC:74,0.00020964362023413835
+categorical__Route_ID_SF:12,0.00020790376225081914
+categorical__Route_Name_MONTEREY,0.00020673628322556597
+categorical__Route_86,0.00020643592839156516
+categorical__Route_ID_SC:64A,0.00020104184810502623
+categorical__Route_29,0.0001988908883568716
+categorical__Route_20,0.0001959523307007032
+categorical__Route_49,0.0001901585979888364
+categorical__Route_55,0.000185896317706083
+categorical__Route_44,0.00018543474934334353
+categorical__Route_Name_BAYVIEW HUNTERS POINT EXPRESS,0.00018513901400717863
+categorical__Route_Name_JUDAH,0.00018445599819563984
+categorical__Route_ID_SF:N,0.00018385034832800874
+categorical__Route_ID_SF:45,0.0001802957135979405
+categorical__Route_Name_CORBETT,0.00017948349483532338
+categorical__Route_LOWL,0.0001774287479063226
+categorical__Route_21,0.00017352184323715317
+categorical__Route_ID_SF:LOWL,0.00017241697152346402
+categorical__Route_Name_VAN NESS-MISSION,0.00017170747730315075
+categorical__Route_1,0.000170052393075838
+categorical__Route_Name_FOLSOM-PACIFIC,0.00016991262031270892
+categorical__Route_99,0.00016925937198889
+categorical__Route_ID_SF:15,0.00016890888882398536
+categorical__Route_15,0.00016485941513159943
+categorical__Route_School 288L,0.0001648462912110383
+categorical__Route_Name_Mission - Decoto - Fremont Blvd.,0.00016420448295555463
+categorical__Route_O,0.00016349565417024032
+categorical__Route_Name_MISSION RAPID,0.00016213010991081712
+categorical__Route_K,0.00016151309534490578
+categorical__Route_296,0.00015937741857192556
+categorical__Route_KT,0.00015631983855257154
+categorical__Route_Name_Redwood City Transit Center - Bayshore/Donohoe,0.00015568511063536802
+categorical__Route_ID_SF:23,0.00015201126510526016
+categorical__Route_ID_SM:296,0.00015137737401118507
+categorical__Route_Name_Daly City BART - Palo Alto Transit Ctr,0.00014920607183520432
+categorical__Route_ID_SF:37,0.00014657496242540346
+categorical__Route_ID_SF:49,0.00014290290256138878
+categorical__Route_Name_OWL TARAVAL,0.00014247827793244927
+categorical__Route_Name_Broadway - Santa Clara,0.00014225614171914193
+categorical__Route_Name_INGLESIDE,0.00014154888922321624
+categorical__Route_37,0.00013956653590737448
+categorical__Route_ID_SF:K,0.00013913771342881717
+categorical__Route_ID_AC:99,0.0001380810516264851
+categorical__Route_ID_SB:OAS,0.00013577514218607949
+categorical__Route_Name_UNION-STOCKTON,0.0001344906426950507
+categorical__Route_14R,0.0001333511999401051
+categorical__Route_ID_AC:51A,0.00013262920589847703
+categorical__Route_Name_Santa Clara - Encinal Transbay,0.00013146109245186827
+categorical__Route_ID_SC:School 288L,0.00012873915466031624
+categorical__Route_Name_DIVISADERO,0.00012857375190984913
+categorical__Route_Name_Colma BART - Brunswick/Templeton,0.00012806107477688006
+categorical__Route_ID_SM:ECR,0.00012554153551020403
+categorical__Route_8,0.00012524739361696976
+categorical__Route_Name_Northern Rohnert Park,0.00012256759644256653
+categorical__Route_ID_SR:6,0.0001216547498473977
+categorical__Route_Name_CALIFORNIA,0.00012034165004863918
+categorical__Route_Name_SUNSET,0.00011963222755475622
+categorical__Route_Name_QUINTARA-24TH STREET,0.00011824613552459074
+categorical__Route_120,0.00011648188656358819
+categorical__Route_Name_Downtown San Rafael - Novato,0.00011645157226654103
+categorical__Route_ID_SF:24,0.0001162079236747006
+categorical__Route_Name_Macdonald - San Pablo,0.00011614019780884153
+categorical__Route_ID_SF:29,0.00011607685015674584
+categorical__Route_ID_SF:14R,0.00011360622338665825
+categorical__Route_Name_ASHBURY-18TH ST,0.00011153448760348334
+categorical__Route_ID_AC:96,0.00011107110310353985
+categorical__Route_48,0.00010860902322103309
+categorical__Route_ID_SF:KT,0.00010853142090992753
+categorical__Route_6,0.0001079805424790591
+categorical__Route_35,0.000107508546619433
+categorical__Route_ID_SM:120,0.00010593425147373382
+categorical__Route_Name_Hillsdale - Half Moon Bay,0.00010445494727992043
+categorical__Route_51A,0.00010336706610886163
+categorical__Route_ID_AC:97,0.00010306741131899425
+categorical__Route_ID_AC:35,0.00010039227154566215
+categorical__Route_ID_SF:27,9.975987066981273e-05
+categorical__Route_ECR,9.878229755503972e-05
+categorical__Route_Name_Bridge/Bowsprit - Ralston School,9.796822093493398e-05
+categorical__Route_OAS,9.729890566024227e-05
+categorical__Route_Name_Sonoma Valley,9.729308806032271e-05
+categorical__Route_ID_SF:1,9.657981985372526e-05
+categorical__Route_Name_Hesperian - Alvarado - Decoto,9.562955341823251e-05
+categorical__Route_Name_HAIGHT-PARNASSUS,9.482600892182002e-05
+categorical__Route_Name_INGLESIDE-THIRD,9.457516951552389e-05
+categorical__Route_ID_MA:57,9.393786394535943e-05
+categorical__Route_Name_BRYANT,9.363246370863104e-05
+categorical__Route_ID_AC:7,9.22825393960995e-05
+categorical__Route_40,8.964791069420951e-05
+categorical__Route_27,8.939400385482913e-05
+categorical__Route_ID_AC:93,8.828387722881001e-05
+categorical__Route_42,8.629998245612844e-05
+categorical__Route_ID_SO:12,8.565306427256324e-05
+categorical__Route_Name_Ashland - San Lorenzo - A St.,8.553381121294675e-05
+categorical__Route_Name_Arlington - Shattuck - Ashby,8.551535472092544e-05
+categorical__Route_7,8.542696612018112e-05
+categorical__Route_97,8.503046612619713e-05
+categorical__Route_Name_Gunn HS - Louis & Fielding,8.49956033528733e-05
+categorical__Route_294,8.014997943037427e-05
+categorical__Route_Name_Estudillo - Davis - Meekland,7.981395649798699e-05
+categorical__Route_ID_SO:32,7.948682179283612e-05
+categorical__Route_ID_SF:31,7.929178679561742e-05
+categorical__Route_31,7.899936305744098e-05
+categorical__Route_Name_Alvarado - Castro Valley - B St.,7.814104949584793e-05
+categorical__Route_Name_BALBOA,7.685481609323834e-05
+categorical__Route_96,7.679644284480584e-05
+categorical__Route_Name_Oakland Alameda Water Shuttle,7.52468101248441e-05
+categorical__Route_NL,7.432223165150024e-05
+categorical__Route_ID_SF:48,7.419223700850089e-05
+categorical__Route_Name_Pacifica - Parkside IL,7.392735035624358e-05
+categorical__Route_ID_MA:35,7.37910847953822e-05
+categorical__Route_ID_AC:28,7.357841107771881e-05
+categorical__Route_51B,7.328290245748947e-05
+categorical__Route_ID_AC:51B,7.311856859907336e-05
+categorical__Route_32,7.046878124257354e-05
+categorical__Route_ID_AC:72M,6.977955214886774e-05
+categorical__Route_33,6.951658185814842e-05
+categorical__Route_18,6.927774777931499e-05
+categorical__Route_73,6.887389694413308e-05
+categorical__Route_Name_OWL JUDAH,6.734326704030229e-05
+categorical__Route_ID_SF:33,6.723336708468796e-05
+categorical__Route_Name_Fulton Road,6.59275644316657e-05
+categorical__Route_ID_SF:6,6.545855266374284e-05
+categorical__Route_66,6.545438823232055e-05
+categorical__Route_93,6.543056507456611e-05
+categorical__Route_Name_Canal - Northgate,6.539802605695328e-05
+categorical__Route_Name_University - College - Rockridge,6.520334020481227e-05
+categorical__Route_ID_SF:38R,6.518126834566189e-05
+categorical__Route_ID_AC:40,6.369851276446523e-05
+categorical__Route_Name_HAIGHT-NORIEGA,6.300688820523487e-05
+categorical__Route_24,6.289526086092733e-05
+categorical__Route_ID_SM:67,6.26066236349479e-05
+categorical__Route_ID_AC:34,6.159560575196035e-05
+categorical__Route_38R,5.810990390261963e-05
+categorical__Route_Name_West Ninth Street,5.7562549201417934e-05
+categorical__Route_Name_Palo Alto TC - Eastridge,5.7369109129319634e-05
+categorical__Route_ID_SF:NOWL,5.6984511946505345e-05
+categorical__Route_ID_SM:294,5.690964327228913e-05
+categorical__Route_217,5.672663928150158e-05
+categorical__Route_200,5.635281952189881e-05
+categorical__Route_ID_AC:10,5.633221887770017e-05
+categorical__Route_Name_Foothill - Bancroft - Bay Fair,5.6185791674107677e-05
+categorical__Route_ID_SF:28R,5.574686885224657e-05
+categorical__Route_46L,5.5341806078490805e-05
+categorical__Route_Name_Buena Vista - Fruitvale,5.5099843784182155e-05
+categorical__Route_ID_WH:30R,5.491801012674427e-05
+categorical__Route_34,5.371346889026738e-05
+categorical__Route_Name_SUTTER,5.2996852447589695e-05
+categorical__Route_Name_Dtwn SJ - Senter & Monterey via Senter,5.285838115323674e-05
+categorical__Route_ID_AC:46L,5.2556876588588944e-05
+categorical__Route_Name_19TH AVENUE RAPID,5.249963710541991e-05
+categorical__Route_Name_Mission San Jose - Milpitas,5.228582248018172e-05
+categorical__Route_ID_SF:7,5.226142612999511e-05
+categorical__Route_ID_SC:66,5.2090892574584865e-05
+categorical__Route_Name_82nd Ave. - Grass Valley Limited,5.2046599505038206e-05
+categorical__Route_ID_AC:NL,5.162153618441647e-05
+categorical__Route_ID_SF:2,5.134189518508713e-05
+categorical__Route_628,5.1042443633528144e-05
+categorical__Route_ID_SF:57,5.067329761220556e-05
+categorical__Route_ID_SM:42,5.060385015530605e-05
+categorical__Route_Name_Estudillo - Davis -  Lewelling,5.0603776940833436e-05
+categorical__Route_ID_SC:Green Line,5.057592981051837e-05
+categorical__Route_Name_MASONIC,5.037736939715255e-05
+categorical__Route_Name_Alameda Pt. - 14th Ave. - Dimond,4.95712796826632e-05
+categorical__Route_ID_SC:73,4.941385577209701e-05
+categorical__Route_Name_MacArthur Transbay Limited,4.921199452655215e-05
+categorical__Route_28R,4.8909245495426365e-05
+categorical__Route_52,4.843046670430007e-05
+categorical__Route_ID_SR:9,4.8304604378827824e-05
+categorical__Route_Name_Old Ironsides - Winchester,4.772374068816063e-05
+categorical__Route_Name_FULTON RAPID,4.757399382616672e-05
+categorical__Route_NOWL,4.751947038613354e-05
+categorical__Route_121,4.6901338510126977e-05
+categorical__Route_ID_SM:130,4.677890573065724e-05
+categorical__Route_Name_PARKMERCED,4.657211772922559e-05
+categorical__Route_ID_AC:217,4.636861233709955e-05
+categorical__Route_Name_Pope/Bellevue - Skyline College,4.605351832568734e-05
+categorical__Route_72M,4.5623618751293136e-05
+categorical__Route_Green Line,4.5553068359475547e-05
+categorical__Route_Name_35th Ave. - Merritt College,4.533743157649973e-05
+categorical__Route_Name_Dublin - Livermore via College,4.507415340860206e-05
+categorical__Route_ID_AC:29,4.321606807401874e-05
+categorical__Route_Name_GEARY RAPID,4.2324842784022695e-05
+categorical__Route_Name_73rd Ave. - Coliseum - Airport,4.197641794197921e-05
+categorical__Route_ID_SC:40,4.163048244503118e-05
+categorical__Route_ID_AC:19,4.101595288092335e-05
+categorical__Route_Name_Newark Memorial  - Cedar,4.075191746928321e-05
+categorical__Route_ID_SM:121,4.072888023957784e-05
+categorical__Route_70,4.048972015444525e-05
+categorical__Route_5R,4.04501428815213e-05
+categorical__Route_Name_LAKE MERCED,4.0294213464892055e-05
+categorical__Route_ID_AC:200,3.969288575845558e-05
+categorical__Route_ID_SF:52,3.921251574989344e-05
+categorical__Route_30R,3.717131227157804e-05
+categorical__Route_ID_SC:22,3.696725823911415e-05
+categorical__Route_Name_Pleasanton - Livermore via Stanley,3.65580209918654e-05
+categorical__Route_Name_E. 14th St. - Mission,3.644941952395194e-05
+categorical__Route_Name_East Palo Alto - San Bruno BART and San Francisco,3.636567902590999e-05
+categorical__Route_Name_North Milpitas - Santa Teresa Stn,3.6179887917752534e-05
+categorical__Route_61,3.5623070513223286e-05
+categorical__Route_58,3.552286387883364e-05
+categorical__Route_ID_AC:54,3.5451245194885266e-05
+categorical__Route_Name_Foothill Coll - Mtn View TC via N. Bayshore,3.498242579265445e-05
+categorical__Route_ID_AC:628,3.4927768584410355e-05
+categorical__Route_ID_SF:58,3.457594510915293e-05
+categorical__Route_68,3.31565469556248e-05
+categorical__Route_280,3.2790152854319184e-05
+categorical__Route_ID_SR:18,3.2757848552427534e-05
+categorical__Route_Name_Dtwn SJ - Senter & Monterey via McLaughlin,3.272367029828687e-05
+categorical__Route_Name_46TH AVENUE,3.2696950603218964e-05
+categorical__Route_Name_Purdue/Fordham - Palo Alto Transit Ctr,3.2559213864970205e-05
+categorical__Route_72,3.235353926251383e-05
+categorical__Route_Name_East Circulator,3.0996212515814e-05
+categorical__Route_62,3.0774370004426946e-05
+categorical__Route_Name_Sacramento - Market,3.0440704039898646e-05
+categorical__Route_43,3.0019468008049417e-05
+categorical__Route_376,2.9953706276691824e-05
+categorical__Route_Name_EXCELSIOR,2.9875852595209112e-05
+categorical__Route_10R,2.977074536090804e-05
+categorical__Route_ID_AC:88,2.9670420780538914e-05
+categorical__Route_ID_SF:5R,2.882020596682985e-05
+categorical__Route_ID_SM:142,2.8347409126308788e-05
+categorical__Route_ID_MA:613,2.7582559115431167e-05
+categorical__Route_Name_Downtown San Rafael - Inverness,2.7230759930359175e-05
+categorical__Route_ID_SF:43,2.7164426973880703e-05
+categorical__Route_Name_Decoto - Newark Blvd. - Mowry,2.7070495712383464e-05
+categorical__Route_Name_SFO - Shelter Creek,2.706981244834585e-05
+categorical__Route_ID_WH:10R,2.7052176322253715e-05
+categorical__Route_Name_Belle Haven Community Campus - Stanford,2.7038838840724862e-05
+categorical__Route_ID_SF:18,2.672984362018289e-05
+categorical__Route_3,2.6482636935286453e-05
+categorical__Route_ID_GG:101,2.6372728616695503e-05
+categorical__Route_Name_Hillsdale - Alameda & Ralston,2.618352171910248e-05
+categorical__Route_88,2.6061614183658132e-05
+categorical__Route_ID_AC:62,2.558769225325411e-05
+categorical__Route_Name_Fremont Blvd. - Mission San Jose,2.5468095663754364e-05
+categorical__Route_ID_SC:61,2.4803914842854178e-05
+categorical__Route_ID_AC:73,2.466093871111732e-05
+categorical__Route_ID_SM:281,2.445203245011974e-05
+categorical__Route_142,2.4421180461545744e-05
+categorical__Route_250,2.4361528669502804e-05
+categorical__Route_Name_Daly City BART - Airport & Linden/Oyster Point,2.4177069214736074e-05
+categorical__Route_Name_Solano - Shattuck - MLK Jr.,2.4032571543042724e-05
+categorical__Route_ID_SM:280,2.3944840112061796e-05
+categorical__Route_Name_San Mateo Caltrain - College of San Mateo,2.353081240006188e-05
+categorical__Route_Name_Hollis - Peralta - Lakeshore,2.34860882561802e-05
+categorical__Route_281,2.3339156815869743e-05
+categorical__Route_ID_SF:90,2.332807584116346e-05
+categorical__Route_ID_SC:72,2.316542701131376e-05
+categorical__Route_Name_Sierra & Piedmont - Good Samaritan Hospital,2.30856385189372e-05
+categorical__Route_ID_WH:1,2.295611111653421e-05
+categorical__Route_Name_7th St. - San Antonio - 23rd Av.,2.2602368515723076e-05
+categorical__Route_ID_MA:22,2.2519481249121685e-05
+categorical__Route_Name_Paradise Cay - Redwood HS,2.2267135912012068e-05
+categorical__Route_Name_Niles - Stevenson - NewPark,2.211318260456039e-05
+categorical__Route_117,2.2080002195237856e-05
+categorical__Route_ID_SM:EPX,2.1950539057111436e-05
+categorical__Route_Name_Linda Mar Park & Ride - Moonridge Apts,2.193219133928257e-05
+categorical__Route_292,2.167613782384053e-05
+categorical__Route_ID_AC:18,2.159722621494072e-05
+categorical__Route_ID_AC:6,2.153862504268641e-05
+categorical__Route_Name_Berkeley - Telegraph - Oakland,2.1424892701371616e-05
+categorical__Route_60,2.128825062056691e-05
+categorical__Route_ID_SM:62,2.1238179219363917e-05
+categorical__Route_Name_Santa Rosa - San Francisco,2.1231309687957076e-05
+categorical__Route_Blue Line,2.1166079790908547e-05
+categorical__Route_ID_SC:Blue Line,2.0860949059129116e-05
+categorical__Route_Name_HAYES,2.0766153404408755e-05
+categorical__Route_90,2.0683550338471977e-05
+categorical__Route_216,2.06536133159135e-05
+categorical__Route_Name_Cutting - N. Richmond - Nights,2.0366227154615513e-05
+categorical__Route_Name_San Francisco - SFO - Hillsdale Mall,1.9770731307114514e-05
+categorical__Route_4,1.9307559715757093e-05
+categorical__Route_ID_AC:216,1.9172688906377415e-05
+categorical__Route_ID_SC:70,1.8969897971564207e-05
+categorical__Route_ID_AC:12,1.8929538040967497e-05
+categorical__Route_613,1.885730968905347e-05
+categorical__Route_ID_SM:250,1.875487305536342e-05
+categorical__Route_Name_Santa Rita Jail,1.8113783013003005e-05
+categorical__Route_ID_AC:210,1.7586977468511013e-05
+categorical__Route_ID_SF:21,1.7414047775165574e-05
+categorical__Route_ID_SM:117,1.7367366507676433e-05
+categorical__Route_64B,1.7128201832698113e-05
+categorical__Route_Name_MLK Jr. - Temescal - Grand,1.658596423929695e-05
+categorical__Route_ID_SM:292,1.6435549448726843e-05
+categorical__Route_Name_San Jose Diridon - Gilroy TC,1.6063281431900857e-05
+categorical__Route_130,1.5803783618231062e-05
+categorical__Route_9R,1.574804317460605e-05
+categorical__Route_EPX,1.5645497408617435e-05
+categorical__Route_260,1.5447856105233105e-05
+categorical__Route_36,1.5014252517916347e-05
+categorical__Route_ID_SC:64B,1.4972642966073712e-05
+categorical__Route_ID_AC:376,1.4808264021624665e-05
+categorical__Route_Name_Almaden & Camden - Mckee & White,1.4768743292456198e-05
+categorical__Route_Name_San Jose State - Lockheed Martin via De Anza,1.4645462079864277e-05
+categorical__Route_Name_Milpitas BART - Winchester Stn via SJC Airport,1.4617057964382913e-05
+categorical__Route_Name_SAN BRUNO RAPID,1.4403222730097445e-05
+categorical__Route_ID_SF:9R,1.4110440467497112e-05
+categorical__Route_ID_SM:141,1.3582071775578277e-05
+categorical__Route_Name_Milpitas BART - Capitol Stn via Jackson,1.3567645889921434e-05
+"categorical__Route_Name_Cloverdale, Healdsburg, Windsor, Santa Rosa",1.34866595280771e-05
+categorical__Route_ID_SF:66,1.343663425305867e-05
+categorical__Route_Name_QUINTARA,1.324088934373794e-05
+categorical__Route_71,1.3013457958230268e-05
+categorical__Route_ID_AC:45,1.299829725025107e-05
+categorical__Route_Name_Baypointe - Santa Teresa,1.2785558940091468e-05
+categorical__Route_Name_Downtown San Rafael - Marin City,1.2706855112433187e-05
+categorical__Route_Name_Colusa - The Alameda - Claremont,1.2561514723675912e-05
+categorical__Route_ID_AC:86,1.2420052214108577e-05
+categorical__Route_Name_West Dublin,1.2095219363364738e-05
+categorical__Route_ID_VC:4,1.1962227659172406e-05
+categorical__Route_295,1.1894528858864647e-05
+categorical__Route_ID_AC:33,1.1623559353064106e-05
+categorical__Route_141,1.1559732344141673e-05
+categorical__Route_ID_SF:36,1.1481674707865723e-05
+categorical__Route_Name_Seminary - Sobrante Park,1.1269692259175629e-05
+categorical__Route_Name_FTC/Fairfield Walmart,1.1169710520322338e-05
+categorical__Route_12T,1.0962614711755472e-05
+categorical__Route_ID_SM:82,1.0958309362109495e-05
+categorical__Route_Name_Hercules Transit Center - Pinole - Richmond - BART,1.0946174824004059e-05
+categorical__Route_Name_Sebastopol Road,1.0677403868575394e-05
+categorical__Route_Name_Stanford Shopping Ctr - Santa Clara TC,1.0606993526444139e-05
+categorical__Route_79,1.0552787833539935e-05
+categorical__Route_Name_TERESITA,1.0536555246013366e-05
+categorical__Route_ID_AC:79,1.0456653632151884e-05
+categorical__Route_Name_85th Ave. - Elmhurst - 90th Ave.,1.0454767988148651e-05
+categorical__Route_76,1.0442806234233772e-05
+categorical__Route_ID_WC:J,1.0382686825688628e-05
+categorical__Route_ID_SC:68,1.010259580185614e-05
+categorical__Route_Name_Airport/Linden - Skyline College,9.913162319094268e-06
+categorical__Route_ID_SC:60,9.841926220171055e-06
+categorical__Route_Name_Spruce - Oxford,9.696002941703835e-06
+categorical__Route_17,9.472923049657066e-06
+categorical__Route_ID_SC:21,9.298478604265343e-06
+categorical__Route_Name_San Carlos Caltrain - Carlmont Village,9.281166935078011e-06
+categorical__Route_ID_MA:68,9.194150377919829e-06
+categorical__Route_Name_Hilltop - CCC - San Pablo,9.18418368305288e-06
+categorical__Route_ID_WH:4,8.992115160722526e-06
+categorical__Route_Name_Old Ironsides Stn - De Anza Coll,8.98106138662013e-06
+categorical__Route_ID_SM:295,8.979926500756335e-06
+categorical__Route_Name_Piedmont - Harrison - Park Blvd.,8.610940986310373e-06
+categorical__Route_NBUS,8.365456614543743e-06
+categorical__Route_Name_San Rafael (Downtown - Santa Venetia),8.353653036506323e-06
+categorical__Route_210,8.11213292977582e-06
+categorical__Route_Name_Hillsdale Mall - Redwood City Transit Center,7.9871837824734e-06
+categorical__Route_ID_SC:Orange Line,7.919868282840887e-06
+categorical__Route_Name_Stoneridge,7.893899298475376e-06
+categorical__Route_Name_Novato - Marin City,7.866942119384899e-06
+categorical__Route_Name_SAN BRUNO OWL,7.761316150708454e-06
+categorical__Route_ID_FS:7,7.64701225324906e-06
+categorical__Route_ID_SR:2B,7.514771029173026e-06
+categorical__Route_91,7.3449663624341016e-06
+categorical__Route_ID_SO:34,7.247997125372043e-06
+categorical__Route_Name_Crockett - Rodeo - Hercules,7.2247914493739876e-06
+categorical__Route_Name_Dwight - Shellmound - Adeline,7.217345250061558e-06
+categorical__Route_ID_AC:67,7.161861322473999e-06
+categorical__Route_ID_AC:F,6.923735928608309e-06
+categorical__Route_Name_Parchester - Rumrill - Carlson,6.8086294042285226e-06
+categorical__Route_101,6.698268605183928e-06
+categorical__Route_ID_FS:1,6.68202121096882e-06
+categorical__Route_ID_SO:12T,6.665873445592058e-06
+categorical__Route_ID_WH:8,6.6579089959737516e-06
+categorical__Route_82,6.639349245612718e-06
+categorical__Route_233,6.557392202731002e-06
+categorical__Route_Name_Bay/Marsh - Hillview School,6.4429828343308445e-06
+categorical__Route_ID_SM:260,6.407245891387547e-06
+categorical__Route_ID_AC:36,6.219387149392214e-06
+categorical__Route_ID_MA:71,6.081382143630688e-06
+categorical__Route_ID_SO:60,5.995731598315832e-06
+categorical__Route_ID_SC:26,5.805576782220773e-06
+categorical__Route_2B,5.746762195794282e-06
+categorical__Route_ID_GG:132,5.683407613142663e-06
+categorical__Route_ID_VN:F,5.631915606674706e-06
+categorical__Route_ID_SF:35,5.611062343250079e-06
+categorical__Route_ID_SC:Rapid 523,5.6108186366285425e-06
+categorical__Route_110,5.490956987502625e-06
+categorical__Route_Name_Mountain View - Alum Rock,5.4397279970379644e-06
+categorical__Route_Name_Hopyard,5.425485546518401e-06
+categorical__Route_Name_Pleasanton - Livermore via Outlets,5.412503551005351e-06
+categorical__Route_Name_Hilltop - Market -  Cutting,5.359703479814182e-06
+categorical__Route_ID_WH:14,5.33170574552423e-06
+categorical__Route_Orange Line,5.222370151961607e-06
+categorical__Route_ID_MA:233,5.193188446537673e-06
+categorical__Route_ID_WH:3,5.1716473266216024e-06
+categorical__Route_ID_AC:90,5.114282886194361e-06
+categorical__Route_ID_SC:55,5.091113385755207e-06
+categorical__Route_56,5.0515255272259255e-06
+categorical__Route_ID_SF:NBUS,5.039737002615728e-06
+categorical__Route_132,4.934471593877348e-06
+categorical__Route_ID_AC:72,4.9078491563999425e-06
+categorical__Route_Name_Redwood City Caltrain - Florence/17th loop,4.816277259619879e-06
+categorical__Route_Name_San Anselmo - San Francisco,4.813226065859743e-06
+categorical__Route_ID_SR:15,4.796855027636486e-06
+categorical__Route_Name_Daly City BART - Linda Mar Park & Ride,4.78135689803065e-06
+categorical__Route_ID_SM:110,4.738402386395125e-06
+categorical__Route_270,4.625118004125766e-06
+categorical__Route_Name_JUDAH BUS,4.599684914616771e-06
+categorical__Route_Name_FTC/Solano College/Cordelia Library,4.595970369570585e-06
+categorical__Route_Name_EUREKA,4.511103135281664e-06
+categorical__Route_801,4.43941680115473e-06
+categorical__Route_ID_AC:76,4.369900939879295e-06
+categorical__Route_Name_Winton - Industrial - Tennyson,4.328301182021106e-06
+categorical__Route_ID_WC:11,4.313739592329482e-06
+categorical__Route_Name_Adeline - Market Transbay,4.2938029563612185e-06
+categorical__Route_Name_Gilroy TC - St. Louise Hosp via West Gilroy,4.289357570518015e-06
+categorical__Route_ID_SM:270,4.287340038362415e-06
+categorical__Route_Name_San Jose Diridon - Berryessa BART,4.132230375289903e-06
+categorical__Route_Name_Palo Alto TC - Eastridge Rapid,4.093868231007637e-06
+categorical__Route_C3,4.0649690598805845e-06
+categorical__Route_Rapid 523,3.942919526893646e-06
+categorical__Route_ID_SM:86,3.942109635310761e-06
+categorical__Route_Name_Northern Rohnert Park Tripper,3.916659497810494e-06
+categorical__Route_Name_San Rafael - San Francisco,3.910599518440131e-06
+categorical__Route_Name_03 Eastside Clockwise,3.909811692095199e-06
+categorical__Route_ID_SB:OA,3.855918124786137e-06
+categorical__Route_11,3.838635010817227e-06
+categorical__Route_ID_MA:36,3.618112757058081e-06
+categorical__Route_ID_SO:67,3.2744087963023557e-06
+categorical__Route_Name_Fremont Blvd. - Pacific Commons,3.2702444416331366e-06
+categorical__Route_ID_SF:56,3.145378200638518e-06
+categorical__Route_ID_SF:91,3.1002160031303483e-06
+categorical__Route_Name_RUTLAND,3.0181565631421985e-06
+categorical__Route_Name_Southwest Napa,2.9735063369912726e-06
+categorical__Route_ID_SC:85,2.9694715959230894e-06
+categorical__Route_ID_PE:3,2.9601956853866853e-06
+categorical__Route_ID_AC:212,2.953991898424491e-06
+categorical__Route_675,2.9494457485147674e-06
+categorical__Route_85,2.933270434230236e-06
+categorical__Route_Name_Stony Point Road,2.931347074618319e-06
+categorical__Route_Name_Sharp Park - Colma BART,2.886285811500147e-06
+categorical__Route_Name_Paseo Padre - Thornton - Cherry,2.864339935307242e-06
+categorical__Route_ID_SM:112,2.7951086028632797e-06
+categorical__Route_Name_Downtown San Rafael - Sausalito,2.7580152747489137e-06
+categorical__Route_ID_AC:71,2.743350697579171e-06
+categorical__Route_212,2.700243529688508e-06
+"categorical__Route_Name_Santa Rosa, Sonoma Valley",2.6945536232271022e-06
+categorical__Route_251,2.6915005007773146e-06
+categorical__Route_Name_Sharon Heights - Menlo-Atherton High School,2.6573242704001203e-06
+categorical__Route_ID_AC:801,2.6269747597091657e-06
+categorical__Route_SKY,2.6047775516911264e-06
+categorical__Route_ID_VN:11,2.5641236030626914e-06
+categorical__Route_ID_GG:130,2.4869552929956602e-06
+categorical__Route_Name_Oakland & Alameda,2.4587062414347845e-06
+categorical__Route_Name_3RD-19TH AVE OWL,2.458250847344698e-06
+categorical__Route_84,2.4528398246846666e-06
+categorical__Route_ID_MA:17,2.42835627715804e-06
+categorical__Route_Name_Hercules Transit Center - Pinole - Contra Costa College,2.401458115384492e-06
+categorical__Route_ID_AC:251,2.3921968426525287e-06
+categorical__Route_Name_Napa-Vallejo Connector,2.3818712190684702e-06
+categorical__Route_ID_AC:675,2.2798163853912807e-06
+categorical__Route_Name_Tiburon - Strawberry,2.275641878156532e-06
+categorical__Route_ID_SC:Rapid 500,2.2307932545073933e-06
+categorical__Route_278,2.0775271795179484e-06
+categorical__Route_JPX,2.065732312251657e-06
+categorical__Route_ID_WC:C3,2.0429080938646347e-06
+categorical__Route_Name_Civic Center - Baypointe - Alum Rock,2.04055237918326e-06
+categorical__Route_Name_West Valley Coll - Eastridge,2.0363805869041774e-06
+categorical__Route_112,2.02040245593395e-06
+categorical__Route_Name_Gilroy TC - St. Louise Hosp via Gilroy Outlets,1.9575236978477218e-06
+categorical__Route_ID_SC:Rapid 522,1.9072274992825745e-06
+categorical__Route_ID_SM:278,1.8967923461824877e-06
+categorical__Route_ID_SC:71,1.8469527677584972e-06
+categorical__Route_ID_WC:JPX,1.8135362596580908e-06
+categorical__Route_Name_Healdsburg Shuttle,1.7891013963066032e-06
+categorical__Route_Name_Route 4,1.7736847900426711e-06
+categorical__Route_OA,1.7510391095647088e-06
+categorical__Route_Name_11 Petaluma Crosstown,1.7417661540129793e-06
+categorical__Route_Name_Amaral Park,1.6938101786235675e-06
+categorical__Route_ID_AC:60,1.6553557181142139e-06
+categorical__Route_ID_SR:1,1.6479319694483794e-06
+categorical__Route_Rapid 500,1.6423854578697413e-06
+categorical__Route_41,1.6232445466579184e-06
+categorical__Route_Name_Redwood City Caltrain - Canada College,1.614437117842884e-06
+categorical__Route_Name_Hercules Transit Center - El Cerrito del Norte BART,1.4925635083021727e-06
+"categorical__Route_Name_Santa Rosa, Sonoma",1.486918322703098e-06
+categorical__Route_Name_Sausalito - Bolinas,1.4497674954205112e-06
+categorical__Route_ID_SA:SMART,1.4419416457036145e-06
+categorical__Route_Name_Mendocino Ave,1.3958560372121868e-06
+categorical__Route_ID_SM:30,1.3934222641124398e-06
+categorical__Route_Name_Daly City BART - Skyline College,1.369484856677811e-06
+categorical__Route_ID_AC:14,1.3274388130917954e-06
+categorical__Route_ID_MA:219,1.3254485611321686e-06
+categorical__Route_Name_Canal - Marin City,1.306601042964069e-06
+categorical__Route_ID_SO:30,1.3064535248596367e-06
+categorical__Route_ID_MA:61,1.2902889375909668e-06
+categorical__Route_ID_SC:56,1.2707177923858747e-06
+categorical__Route_Name_D St. - Maud - Fairview,1.2482137014040898e-06
+categorical__Route_203,1.239815613427553e-06
+categorical__Route_Rapid 522,1.2319049196898405e-06
+categorical__Route_ID_AC:95,1.2117663333725852e-06
+categorical__Route_26,1.1226704369298992e-06
+categorical__Route_Name_Whitman - Huntwood - Union Landg,1.0786546149457742e-06
+categorical__Route_619,1.0767370457668486e-06
+categorical__Route_Name_Korematsu - El Cerrito - Carlson,1.053213630076192e-06
+categorical__Route_ID_SR:8,1.0130467568401657e-06
+categorical__Route_Name_Grimmer - Warm Springs,9.983909397340242e-07
+categorical__Route_Name_Daly City BART - Thomas R Pollicita Middle School,9.88984557039289e-07
+categorical__Route_Name_14th St - San Antonio - High St,9.670945432845978e-07
+categorical__Route_ID_SC:203,9.554857453697975e-07
+categorical__Route_ID_EM:Hollis,9.227600326161655e-07
+categorical__Route_ID_WH:608,8.936991899133566e-07
+categorical__Route_Name_CSUEB - Southland - Tennyson,8.878655217475599e-07
+categorical__Route_Name_Milpitas BART - Eastridge via White,8.581843842367482e-07
+categorical__Route_Name_Bennett Valley,8.461323227754444e-07
+categorical__Route_276,8.286291210108061e-07
+categorical__Route_ID_SM:SKY,8.200490510839021e-07
+categorical__Route_Name_Fairlands,8.151924514990508e-07
+categorical__Route_Name_Lockheed Martin - Monterey & Old Tully,8.020633133100897e-07
+categorical__Route_ID_WC:10,8.00873495572727e-07
+categorical__Route_Name_Main Line,7.698839466008631e-07
+categorical__Route_ID_SM:81,7.353652650798994e-07
+categorical__Route_Name_Hollis,6.641123005376296e-07
+categorical__Route_Name_Redwood City Transit Ctr - Bohannon/Campbell,6.420734062710767e-07
+categorical__Route_608,6.41046621314907e-07
+categorical__Route_Hollis,6.287262424475022e-07
+categorical__Route_Name_E 14th - Mission  All Nighter,6.159783520495722e-07
+categorical__Route_81,6.112776971390282e-07
+categorical__Route_ID_AC:239,6.042781819474308e-07
+categorical__Route_Name_MAHS - East Palo Alto,6.019266307704314e-07
+categorical__Route_Name_Route 6,5.659409580832935e-07
+categorical__Route_ID_AC:70,5.518785373227186e-07
+categorical__Route_ID_VC:6,5.49848785295159e-07
+categorical__Route_59,5.403528120181776e-07
+categorical__Route_Name_Gems and Birds,5.314565326187449e-07
+categorical__Route_Name_Stvns Crk & Saratoga - Baypointe via Alviso,5.287517116427544e-07
+categorical__Route_610,5.192604972588944e-07
+categorical__Route_ID_WH:610,5.172737287387964e-07
+categorical__Route_SMART,5.025285684865795e-07
+categorical__Route_ID_PE:11,4.7549501317471776e-07
+categorical__Route_Name_Tiburon - Redwood HS,4.736861101317849e-07
+categorical__Route_ID_AC:41,4.3028952497483195e-07
+categorical__Route_ID_MA:619,4.019068627680062e-07
+categorical__Route_ID_SM:276,3.840005741027716e-07
+categorical__Route_219,3.5604532264232095e-07
+categorical__Route_239,3.305723474107917e-07
+categorical__Route_ID_SC:84,2.2493027575054314e-07
+categorical__Route_95,1.6705749439825197e-07
+categorical__Route_Name_Rheem - San Pablo Dam - Appian,1.325765131254509e-07
+categorical__Route_ID_SC:59,1.2852882610844452e-07
